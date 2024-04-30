@@ -1,0 +1,26 @@
+.change-color {
+    background-color: #000000; /* Green */
+    color: #ffffff; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .reset-color {
+    background-color: #000000; /* Orange */
+    color: #ffffff; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+  }
+  
+  .change-color:hover {
+    background-color: #3e8e41; /* Darker green */
+  }
+  
+  .reset-color:hover {
+    background-color: #ff69b4; /* Darker orange */
+  }
